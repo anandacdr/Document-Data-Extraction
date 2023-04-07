@@ -2,7 +2,7 @@
 
 Hi, I'm Ananda. I'm a Data Scientist and a Machine Learning Engineer. I'm from Nepal, living in Kathmandu.
 
-Personal [Portfolio](https://www.anandachaudhary.com/).
+Personal [Portfolio](https://www.anandachaudhary.com.np/).
 
 You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][2].
 
